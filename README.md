@@ -1,48 +1,49 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Bronx Appliance Repair Specialist - Expert Repairs in Bronx, NY</title>
-    <meta name="description" content="Bronx Appliance Repair Specialist offers expert, same-day appliance repair in Bronx, NY, and surrounding areas since 1993. Specializing in top brands like Samsung, Bosch, and more.">
-    <meta name="keywords" content="appliance repair Bronx, Bronx appliance repair, washing machine repair, dryer repair, oven repair, dishwasher repair, refrigerator repair, Bronx Appliance Repair Specialist">
-    <meta name="author" content="Bronx Appliance Repair Specialist">
+    <title>Gringer Appliance Repair Service - Expert NYC Repairs Since 1918</title>
+    <meta name="description" content="Gringer Appliance Repair Service offers expert, same-day appliance repair in Manhattan, Brooklyn, Queens, the Bronx, and NYC areas since 1918. Specializing in top brands like Samsung, Bosch, and more.">
+    <meta name="keywords" content="appliance repair NYC, Manhattan appliance repair, Brooklyn appliance repair, Queens appliance repair, Bronx appliance repair, washing machine repair, dryer repair, oven repair, dishwasher repair, refrigerator repair, Gringer Appliance Repair">
+    <meta name="author" content="Gringer Appliance Repair Service">
     <meta name="robots" content="index, follow">
-    <link rel="canonical" href="https://bronxappliancerepairnyc.com/">
-    <link rel="sitemap" href="https://bronxappliancerepairnyc.com/sitemap.xml">
-    <meta property="og:title" content="Bronx Appliance Repair Specialist - Expert Repairs in Bronx, NY">
-    <meta property="og:description" content="Expert, same-day appliance repair in Bronx, NY, and surrounding areas since 1993. Trust our skilled technicians for all your appliance needs.">
-    <meta property="og:url" content="https://bronxappliancerepairnyc.com/">
+    <link rel="canonical" href="https://gringerappliancerepair.com/">
+    <link rel="sitemap" href="https://gringerappliancerepair.com/sitemap.xml">
+    <meta property="og:title" content="Gringer Appliance Repair Service - Expert NYC Repairs Since 1918">
+    <meta property="og:description" content="Expert, same-day appliance repair in Manhattan, Brooklyn, Queens, the Bronx, and NYC areas since 1918. Trust our skilled technicians for all your appliance needs.">
+    <meta property="og:url" content="https://gringerappliancerepair.com/">
     <meta property="og:type" content="website">
-    <meta property="og:image" content="https://bronxappliancerepairnyc.com/assets/img/social.jpg">
+    <meta property="og:image" content="https://gringerappliancerepair.com/assets/img/social.jpg">
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Bronx Appliance Repair Specialist - Expert Repairs in Bronx, NY">
-    <meta name="twitter:description" content="Expert, same-day appliance repair in Bronx, NY, and surrounding areas since 1993. Trust our skilled technicians.">
-    <meta name="twitter:image" content="https://bronxappliancerepairnyc.com/assets/img/social.jpg">
+    <meta name="twitter:title" content="Gringer Appliance Repair Service - Expert NYC Repairs Since 1918">
+    <meta name="twitter:description" content="Expert, same-day appliance repair in Manhattan, Brooklyn, Queens, the Bronx, and NYC areas since 1918. Trust our skilled technicians.">
+    <meta name="twitter:image" content="https://gringerappliancerepair.com/assets/img/social.jpg">
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",
       "@type": "LocalBusiness",
-      "name": "Bronx Appliance Repair Specialist",
-      "url": "https://bronxappliancerepairnyc.com/",
-      "description": "Bronx Appliance Repair Specialist is the premier provider of appliance repair in Bronx, New York, delivering expert solutions since 1993.",
+      "name": "Gringer Appliance Repair Service",
+      "url": "https://gringerappliancerepair.com/",
+      "description": "Gringer Appliance Repair Service is the premier, authorized provider of appliance repair in New York City, delivering expert solutions since 1918.",
       "telephone": "+17187171706",
-      "email": "info@bronxappliancerepair.com",
-      "image": "https://bronxappliancerepairnyc.com/assets/img/social.jpg",
+      "email": "info@gringerappliancerepair.com",
+      "image": "https://gringerappliancerepair.com/assets/img/social.jpg",
       "priceRange": "$$",
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "1500 Astor Ave",
-        "addressLocality": "Bronx",
+        "streetAddress": "152 E 23rd St",
+        "addressLocality": "New York",
         "addressRegion": "NY",
-        "postalCode": "10469",
+        "postalCode": "10010",
         "addressCountry": "US"
       },
       "areaServed": {
         "@type": "GeoCircle",
         "geoMidpoint": {
           "@type": "GeoCoordinates",
-          "latitude": 40.84,
-          "longitude": -73.88
+          "latitude": 40.7396,
+          "longitude": -73.9861
         },
         "geoRadius": "10000"
       },
@@ -56,10 +57,15 @@
       ],
       "logo": {
         "@type": "ImageObject",
-        "url": "https://bronxappliancerepairnyc.com/assets/img/logo.png",
+        "url": "https://gringerappliancerepair.com/assets/img/logo.png",
         "width": 600,
         "height": 150
       },
+      "sameAs": [
+        "https://www.facebook.com/gringerappliancerepair",
+        "https://www.twitter.com/gringerrepair",
+        "https://www.instagram.com/gringerappliancerepair"
+      ],
       "aggregateRating": {
         "@type": "AggregateRating",
         "ratingValue": "4.9",
@@ -72,22 +78,22 @@
       "@context": "https://schema.org",
       "@type": "BreadcrumbList",
       "itemListElement": [
-        {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://bronxappliancerepairnyc.com/#home"},
-        {"@type": "ListItem", "position": 2, "name": "Appliance Repair Services", "item": "https://bronxappliancerepairnyc.com/#services"},
-        {"@type": "ListItem", "position": 3, "name": "Serving All Bronx Neighborhoods", "item": "https://bronxappliancerepairnyc.com/#service-areas"},
-        {"@type": "ListItem", "position": 4, "name": "Brands We Service", "item": "https://bronxappliancerepairnyc.com/#brands"},
-        {"@type": "ListItem", "position": 5, "name": "Additional Services", "item": "https://bronxappliancerepairnyc.com/#additional-services"},
-        {"@type": "ListItem", "position": 6, "name": "Customer Reviews", "item": "https://bronxappliancerepairnyc.com/#reviews"},
-        {"@type": "ListItem", "position": 7, "name": "About Us", "item": "https://bronxappliancerepairnyc.com/#about"},
-        {"@type": "ListItem", "position": 8, "name": "Contact Us", "item": "https://bronxappliancerepairnyc.com/#contact"},
-        {"@type": "ListItem", "position": 9, "name": "Guarantee Policy", "item": "https://bronxappliancerepairnyc.com/#guarantee-policy"}
+        {"@type": "ListItem", "position": 1, "name": "Home - NYC Appliance Repair", "item": "https://gringerappliancerepair.com/#home"},
+        {"@type": "ListItem", "position": 2, "name": "Appliance Repair Services", "item": "https://gringerappliancerepair.com/#services"},
+        {"@type": "ListItem", "position": 3, "name": "NYC Service Areas", "item": "https://gringerappliancerepair.com/#service-areas"},
+        {"@type": "ListItem", "position": 4, "name": "Brands We Service", "item": "https://gringerappliancerepair.com/#brands"},
+        {"@type": "ListItem", "position": 5, "name": "Additional Services", "item": "https://gringerappliancerepair.com/#additional-services"},
+        {"@type": "ListItem", "position": 6, "name": "Customer Reviews", "item": "https://gringerappliancerepair.com/#reviews"},
+        {"@type": "ListItem", "position": 7, "name": "About Gringer", "item": "https://gringerappliancerepair.com/#about"},
+        {"@type": "ListItem", "position": 8, "name": "Contact Us", "item": "https://gringerappliancerepair.com/#contact"},
+        {"@type": "ListItem", "position": 9, "name": "Guarantee Policy", "item": "https://gringerappliancerepair.com/#guarantee-policy"}
       ]
     }
     </script>
     <style>
         * {margin: 0; padding: 0; box-sizing: border-box;}
         html, body {height: 100%; margin: 0; padding: 0; overflow-y: auto;}
-        body {font-family: 'Inter', sans-serif; color: #1F2937; line-height: 1.6; background: #FFFFFF; padding-top: 80px;}
+        body {font-family: 'Inter', sans-serif; color: #1F2937; line-height: 1.6; background: #FFFFFF; padding-top: 60px;}
         .content-wrapper {background: linear-gradient(135deg, #1E3A8A, #3B82F6, #06B6D4); background-size: 200% 200%; animation: gradientFlow 30s ease infinite; margin: 0; padding: 0;}
         @keyframes gradientFlow {0% {background-position: 0% 50%;} 50% {background-position: 100% 50%;} 100% {background-position: 0% 50%;}}
         header {position: fixed; top: 0; width: 100%; background: linear-gradient(45deg, #1E3A8A, #06B6D4, #3B82F6); background-size: 200% 200%; padding: 1rem 2rem; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3); z-index: 1000; animation: shimmer 5s ease infinite;}
@@ -103,29 +109,11 @@
         .hamburger.active span:nth-child(1) {transform: rotate(45deg) translate(5px, 5px);}
         .hamburger.active span:nth-child(2) {opacity: 0;}
         .hamburger.active span:nth-child(3) {transform: rotate(-45deg) translate(7px, -7px);}
-        .header-insurance {
-            max-width: 1200px;
-            margin: 0.5rem auto 0;
-            text-align: center;
-            color: #FFD700;
-            text-shadow: 0 0 8px rgba(255, 215, 0, 0.5);
-            font-family: 'Montserrat', sans-serif;
-            font-size: 0.9rem;
-            font-weight: 500;
-            background: linear-gradient(45deg, #1E3A8A, #06B6D4, #3B82F6);
-            background-size: 200% 200%;
-            animation: shimmer 5s ease infinite;
-            padding: 0.2rem 0;
-        }
         @media (max-width: 768px) {
             nav ul {display: none; position: absolute; top: 60px; left: 0; width: 100%; background: linear-gradient(45deg, #1E3A8A, #06B6D4); flex-direction: column; padding: 1rem;}
             nav ul.active {display: flex;}
             .hamburger {display: flex;}
-            .header-insurance {font-size: 0.8rem; padding: 0.1rem 0;}
-            body {padding-top: 100px;}
         }
-        .skip-link {position: absolute; top: -40px; left: 0; background: #fff; padding: 8px; color: #1E3A8A; text-decoration: none; z-index: 1001;}
-        .skip-link:focus {top: 0;}
         main {padding-top: 80px;}
         .section {max-width: 1200px; margin: 2rem auto; padding: 2rem; background: rgba(255, 255, 255, 0.9); border-radius: 16px; box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2); text-align: center; position: relative; border: 2px solid transparent; border-image: linear-gradient(45deg, #1E3A8A, #06B6D4) 1; animation: fadeIn 1s ease-out; min-height: fit-content; display: flow-root;}
         @keyframes fadeIn {0% {opacity: 0; transform: translateY(20px);} 100% {opacity: 1; transform: translateY(0);}}
@@ -134,44 +122,16 @@
         #home h1, #services h2, #service-areas h2, #brands h2, #additional-services h2, #reviews h2, #about h2, #contact h2, #guarantee-policy h2 {color: #000000;}
         .section h3 {font-family: 'Montserrat', sans-serif; font-size: 1.2rem; color: #1E3A8A; margin-bottom: 0.5rem;}
         .services-grid h3 {color: #FFD700; display: inline; vertical-align: middle;}
-        .hero {
-            padding: 8rem 2rem 4rem;
-            text-align: center;
-            background-image: url('https://lirp.cdn-website.com/900977ee/dms3rep/multi/opt/REFRIGERTOR+REPAIR-640w.png');
-            background-size: 100% auto;
-            background-repeat: no-repeat;
-            background-position: center;
-            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
-            border-radius: 16px;
-            margin: 2rem auto;
-            max-width: 1200px;
-            border: 2px solid transparent;
-            border-image: linear-gradient(45deg, #1E3A8A, #06B6D4) 1;
-            position: relative;
-        }
-        .hero::before {
-            content: '';
-            position: absolute;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            background: rgba(255, 255, 255, 0.8);
-            border-radius: 16px;
-            z-index: 1;
-        }
-        .hero h1, .hero p, .hero .cta-button {
-            position: relative;
-            z-index: 2;
-        }
-        .hero h1 {font-family: 'Montserrat', sans-serif; font-size: 2.5rem; margin-bottom: 1rem; text-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);}
+        .hero {padding: 8rem 2rem 4rem; text-align: center; background: rgba(255, 255, 255, 0.95); box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2); border-radius: 16px; margin: 2rem auto; max-width: 1200px; border: 2px solid transparent; border-image: linear-gradient(45deg, #1E3A8A, #06B6D4) 1;}
+        .hero h1 {font-family: 'Montserrat', sans-serif; font-size: 2.5rem; margin-bottom: 1rem; text-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);}
         .hero p {font-size: 1.2rem; margin-bottom: 2rem;}
-        .cta-button {display: inline-block; padding: 0.8rem 1.8rem; background: linear-gradient(45deg, #1E3A8A, #3B82F6); color: #FFFFFF; font-family: 'Montserrat', sans-serif; font-size: 1rem; font-weight: 600; text-decoration: none; border-radius: 8px; transition: transform 0.3s ease, background 0.3s ease, box-shadow 0.3s ease; margin: 0.5rem; border: 1px solid #FFD700; box-shadow: 0 0 5px rgba(255, 215, 0, 0.3), 0 4px 10px rgba(0, 0, 0, 0.2);}
+        .cta-button {display: inline-block; padding: 1rem 2rem; background: linear-gradient(45deg, #1E3A8A, #3B82F6); color: #FFFFFF; font-family: 'Montserrat', sans-serif; font-size: 1rem; font-weight: 600; text-decoration: none; border-radius: 8px; transition: transform 0.3s ease, background 0.3s ease, box-shadow 0.3s ease; margin: 0.5rem; border: 1px solid #FFD700; box-shadow: 0 0 5px rgba(255, 215, 0, 0.3), 0 4px 10px rgba(0, 0, 0, 0.2);}
         .cta-button:hover {background: linear-gradient(45deg, #1E40AF, #06B6D4); transform: scale(1.05); box-shadow: 0 0 10px rgba(255, 215, 0, 0.5), 0 0 15px rgba(0, 183, 255, 0.5); animation: pulse 1.5s infinite;}
         .cta-button.active {background: linear-gradient(45deg, #1E40AF, #06B6D4);}
         @keyframes pulse {0% {box-shadow: 0 0 0 0 rgba(0, 183, 255, 0.5);} 70% {box-shadow: 0 0 0 10px rgba(0, 183, 255, 0);} 100% {box-shadow: 0 0 0 0 rgba(0, 183, 255, 0);}}
         .service-item .cta-button {display: flex; align-items: center; justify-content: center; gap: 0.5rem;}
         .service-item .cta-button .icon {font-size: 1.2rem; vertical-align: middle;}
+        .service-item .cta-button img.icon {width: 24px; height: 24px; vertical-align: middle;}
         .service-item .cta-button:hover .icon {color: #FFD700;}
         @media (max-width: 768px) {
             .service-item .cta-button .icon {font-size: 1rem;}
@@ -194,7 +154,7 @@
         .service-item {display: flex; flex-direction: column; align-items: center; gap: 0.5rem; width: 100%;}
         .service-detail {display: none; margin-top: 0.5rem; padding: 1rem; background: linear-gradient(135deg, #E0F7FA, #F0F9FF); border: 1px solid #06B6D4; border-radius: 8px; text-align: center; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); width: 100%;}
         .service-detail.active {display: block;}
-        .brands-grid {display: grid; grid-template-columns: 1fr 1fr; gap: 1.5rem; padding: 1.5rem; justify-items: center;}
+        .brands-grid {display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 1.5rem; padding: 1.5rem; justify-items: center;}
         .brands-grid ul {list-style: none; margin: 0; padding: 0;}
         .brand-item {background: #F7FAFF; padding: 1rem; border-radius: 10px; width: 100%; text-align: center; cursor: pointer; transition: transform 0.3s ease, box-shadow 0.3s ease, background-color 0.3s ease; border: 1px solid #E0E7FF;}
         .brand-item:hover {transform: scale(1.05); box-shadow: 0 6px 15px rgba(0, 183, 255, 0.3); background-color: #E0F7FA;}
@@ -204,46 +164,17 @@
         .brand-item:hover .brand-desc {display: block; opacity: 1;}
         .brand-desc.active {display: block; opacity: 1;}
         @media (max-width: 768px) {
-            .brands-grid {grid-template-columns: repeat(2, 1fr); gap: 1rem; padding: 0.75rem;}
-            .brand-item {padding: 0.75rem;}
-            .brand-item h3 {font-size: 0.9rem;}
-            .brand-desc {font-size: 0.8rem;}
+            .brands-grid {grid-template-columns: repeat(2, 1fr); gap: 1rem; padding: 1rem;}
+            .brand-item h3 {font-size: 1rem;}
+            .brand-desc {font-size: 0.85rem;}
         }
-        .neighborhood-dropdown {
-            max-height: 200px;
-            overflow-y: auto;
-            background: #F7FAFF;
-            border: 1px solid #06B6D4;
-            border-radius: 8px;
-            padding: 1rem;
-            margin-top: 1rem;
-            text-align: center;
-            scrollbar-width: thin;
-            scrollbar-color: #06B6D4 #E0F7FA;
-        }
-        .neighborhood-dropdown::-webkit-scrollbar {
-            width: 8px;
-        }
-        .neighborhood-dropdown::-webkit-scrollbar-track {
-            background: #E0F7FA;
-        }
-        .neighborhood-dropdown::-webkit-scrollbar-thumb {
-            background: #06B6D4;
-            border-radius: 4px;
-        }
-        .neighborhood-item {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            margin-bottom: 0.5rem;
-        }
-        .neighborhood-item span {font-weight: 600; color: #1E3A8A; margin-right: 0.5rem;}
-        @media (max-width: 768px) {
-            .neighborhood-dropdown {max-height: 150px;}
-        }
-        @media (max-width: 480px) {
-            .neighborhood-dropdown {max-height: 100px;}
-        }
+        .borough-grid {display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1rem; padding: 1rem;}
+        .borough-item {cursor: pointer; text-align: center;}
+        .borough-item h3 {padding: 0.5rem; transition: color 0.3s ease;}
+        .borough-item:hover h3 {color: #FFD700;}
+        .borough-desc {display: none; background: linear-gradient(135deg, #E0F7FA, #F0F9FF); padding: 1rem; border-radius: 8px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); margin-top: 0.5rem;}
+        .borough-item:hover .borough-desc {display: block;}
+        .borough-desc.active {display: block;}
         @media (max-width: 768px) {
             .hero h1 {font-size: 2rem;}
             .section {padding: 1.5rem;}
@@ -257,6 +188,7 @@
             .section h3 {font-size: 1rem;}
             .section-content p, .section-content ul {font-size: 0.85rem;}
             .cta-button {padding: 0.75rem 1.5rem; font-size: 0.9rem;}
+            .brand-item h3, .brand-desc {font-size: 0.8rem;}
         }
         footer {background: linear-gradient(45deg, #1E3A8A, #06B6D4, #3B82F6); background-size: 200% 200%; color: #FFFFFF; padding: 3rem 0; margin-top: 2rem; border-top: 3px solid #06B6D4; font-family: 'Inter', sans-serif; animation: shimmer 5s ease infinite;}
         .footer-container {max-width: 1200px; margin: 0 auto; display: flex; flex-wrap: wrap; justify-content: space-between; padding: 0 2rem; gap: 2rem;}
@@ -264,16 +196,18 @@
         .footer-section h4 {font-family: 'Montserrat', sans-serif; font-size: 1.2rem; margin-bottom: 1rem; color: #FFD700;}
         .footer-section p, .footer-section a {font-size: 0.9rem; color: #E0F7FA; text-decoration: none; margin-bottom: 0.5rem; display: block; transition: color 0.3s ease, text-shadow 0.3s ease;}
         .footer-section a:hover {color: #FFD700; text-shadow: 0 0 8px rgba(255, 215, 0, 0.5);}
+        .footer-section .social-links a {display: inline-block; margin-right: 1rem; font-size: 1.2rem; transition: color 0.3s ease, text-shadow 0.3s ease; cursor: pointer;}
+        .footer-section .social-links a:hover {color: #FFD700; text-shadow: 0 0 8px rgba(255, 215, 0, 0.5);}
         .quick-links-container, .appliance-services-container {display: flex; gap: 2rem; justify-content: space-between;}
         .quick-links-list, .appliance-services-list {list-style: none; flex: 1;}
         .quick-links-list li, .appliance-services-list li {margin-bottom: 0.5rem;}
         .footer-section .phone-link, .footer-section .hours-info {display: flex; align-items: center; gap: 0.5rem;}
         .footer-section .phone-link .icon, .footer-section .hours-info .icon {font-size: 1.2rem;}
-        .footer-section .phone-link .icon, .footer-section .hours-info .icon {font-size: 1.2rem;}
         .footer-bottom {text-align: center; padding-top: 2rem; margin-top: 2rem; border-top: 1px solid rgba(255, 255, 255, 0.2); font-size: 0.85rem; color: #E0F7FA;}
         @media (max-width: 768px) {
             .footer-container {flex-direction: column; text-align: center;}
             .footer-section {margin-bottom: 2rem;}
+            .footer-section .social-links a {margin: 0 0.5rem;}
             .quick-links-container, .appliance-services-container {flex-direction: column; gap: 1rem;}
         }
         #guarantee-policy .section-content, #additional-services .section-content {background: linear-gradient(135deg, #E0F7FA, #FFF7E6); border: 2px solid #FFD700; padding: 1.5rem; position: relative; text-align: left; max-width: 800px; margin: 1.5rem auto;}
@@ -288,123 +222,39 @@
             #guarantee-policy .section-content::before, #additional-services .section-content::before {font-size: 1.2rem; padding: 0.3rem 0.8rem;}
             #guarantee-policy .section-content p, #additional-services .section-content li {font-size: 0.9rem;}
         }
-        .phone-floater {
-            position: fixed;
-            bottom: 20px;
-            right: 20px;
-            width: auto;
-            height: 40px;
-            background: linear-gradient(45deg, #1E3A8A, #06B6D4);
-            border-radius: 25px;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            padding: 0.75rem 1.25rem;
-            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
-            z-index: 2000;
-            text-decoration: none;
-            transition: transform 0.3s ease, box-shadow 0.3s ease;
-            gap: 0.5rem;
-            pointer-events: auto;
-        }
-        .phone-floater:hover {
-            transform: scale(1.1);
-            box-shadow: 0 6px 15px rgba(0, 183, 255, 0.5);
-        }
-        .phone-floater span.icon {
-            font-size: 1.5rem;
-            color: #FFFFFF;
-        }
-        .phone-floater span.floater-text {
-            font-family: 'Montserrat', sans-serif;
-            font-size: 1rem;
-            font-weight: 600;
-            color: #FFFFFF;
-        }
-        @media (max-width: 480px) {
-            .phone-floater {
-                height: 48px !important;
-                padding: 0.5rem 1rem !important;
-                display: flex !important;
-            }
-            .phone-floater span.icon {
-                font-size: 1.3rem;
-            }
-            .phone-floater span.floater-text {
-                font-size: 0.9rem;
-            }
-        }
-        .review-badge {
-            position: fixed;
-            bottom: 20px;
-            left: 20px;
-            background: linear-gradient(45deg, #0072e5, #00c6ff);
-            color: #fff;
-            padding: 12px 20px;
-            border-radius: 25px;
-            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
-            font-family: 'Lato', sans-serif;
-            font-size: 16px;
-            font-weight: 600;
-            display: flex;
-            align-items: center;
-            gap: 8px;
-            transition: transform 0.3s ease, box-shadow 0.3s ease;
-            z-index: 2000;
-        }
-
-        .review-badge:hover {
-            transform: scale(1.05);
-            box-shadow: 0 6px 20px rgba(0, 0, 0, 0.4);
-        }
-
-        .review-badge i {
-            color: #ffd700; /* Gold star */
-            font-size: 18px;
-        }
-
-        @media (max-width: 768px) {
-            .review-badge {
-                font-size: 14px;
-                padding: 10px 16px;
-            }
-        }
     </style>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&family=Montserrat:wght@600;700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 </head>
 <body>
-    <a href="#main" class="skip-link">Skip to Content</a>
     <div class="content-wrapper">
         <header>
             <div class="nav-container">
-                <div class="logo">Bronx Appliance Repair Specialist</div>
+                <div class="logo">Gringer Appliance Repair Service</div>
                 <nav>
                     <ul id="nav-menu">
-                        <li><a href="#home">Home</a></li>
+                        <li><a href="#home">Home - NYC Appliance Repair</a></li>
                         <li><a href="#services">Appliance Repair Services</a></li>
-                        <li><a href="#service-areas">Serving All Bronx Neighborhoods</a></li>
+                        <li><a href="#service-areas">NYC Service Areas</a></li>
                         <li><a href="#brands">Brands We Service</a></li>
                         <li><a href="#additional-services">Additional Services</a></li>
                         <li><a href="#reviews">Customer Reviews</a></li>
-                        <li><a href="#about">About Us</a></li>
+                        <li><a href="#about">About Gringer</a></li>
                         <li><a href="#contact">Contact Us</a></li>
                     </ul>
-                    <div class="hamburger" id="hamburger" role="button" aria-expanded="false" aria-controls="nav-menu">
+                    <div class="hamburger" id="hamburger">
                         <span></span>
                         <span></span>
                         <span></span>
                     </div>
                 </nav>
             </div>
-            <div class="header-insurance">Fully Insured & Authorized for Multiple Brands</div>
         </header>
 
-        <main id="main">
+        <main>
             <section class="hero" id="home" role="banner">
-                <h1>Expert Appliance Repair in Bronx, NY</h1>
-                <p>Serving Bronx since 1993, trust Bronx Appliance Repair Specialist for reliable, same-day repairs in Bronx and surrounding areas. Call us at (718) 717-1706 for same-day service!</p>
-                <a href="tel:+17187171706" class="cta-button" aria-label="Call to schedule your appliance repair">Schedule Your Repair</a>
+                <h1>Expert Appliance Repair in NYC Since 1918</h1>
+                <p>Trust Gringer Appliance Repair Service for reliable, same-day repairs across Manhattan, Brooklyn, Queens, and the Bronx.</p>
+                <a href="tel:7187171706" class="cta-button" aria-label="Call to schedule your appliance repair">Schedule Your Repair</a>
             </section>
 
             <section class="section" id="services" role="region" aria-label="Our Services">
@@ -419,36 +269,6 @@
                             </button>
                             <div class="service-detail" id="washingMachineContent">
                                 <p>Expert service for All Models – All-in-One Combo, Top Load, Front Load, and Stacked Laundry Centers.</p>
-                                <p>Washing Machine Repair Service Bronx, New York</p>
-                                <button class="cta-button" onclick="toggleDropdown('washingMachineDropdown')">Learn More</button>
-                                <div id="washingMachineDropdown" class="dropdown-content" style="display: none;">
-                                    <h3>Washing Machine Repair Services in Bronx</h3>
-                                    <p>We provide specialized washing machine repair services throughout Bronx, delivering swift and reliable solutions for residents. Our local team is dedicated to restoring your washing machines, whether front load, top load, residential, commercial, stacked laundry centers, or combo units, to full functionality with same-day service, ensuring your laundry routine stays on track. Whether you’re in a Bronx family home, an apartment, a business, or a residence, we offer precise repairs to keep your washer performing at its best.</p>
-                                    <p>Our Service Areas:</p>
-                                    <ul>
-                                        <li><strong>Bronx, New York:</strong> We assist Bronx households with expert repairs for washing machines, addressing issues like motor failures, drainage problems, or spin cycle malfunctions with efficiency.</li>
-                                    </ul>
-                                    <p>Benefits of Our Washing Machine Repair:</p>
-                                    <ul>
-                                        <li><strong>Fast Turnaround:</strong> We value your time. That’s why we offer speedy service with same-day availability, getting your washing machine back up and running without delay.</li>
-                                        <li><strong>Trained Specialists:</strong> Our technicians are highly skilled in washing machine systems, using genuine parts to ensure repairs are built to last.</li>
-                                        <li><strong>Community-Centered Service:</strong> As a local Bronx provider, we tailor our approach to the unique needs of Bronx residents.</li>
-                                        <li><strong>Thorough Problem-Solving:</strong> We tackle everything from belt failures to digital control glitches, ensuring your washing machine runs reliably.</li>
-                                    </ul>
-                                    <p>Types of Washers We Repair:</p>
-                                    <ul>
-                                        <li><strong>Front Load Washers:</strong> Addressing issues like door seal leaks or drum malfunctions for efficient, high-capacity machines.</li>
-                                        <li><strong>Top Load Washers:</strong> Fixing agitator problems or lid switch failures for traditional, reliable washers.</li>
-                                        <li><strong>Residential Washers:</strong> Restoring home units for daily family use with quick, precise repairs.</li>
-                                        <li><strong>Commercial Washers:</strong> Servicing high-volume machines for businesses like laundromats or hotels.</li>
-                                        <li><strong>Stacked Laundry Centers:</strong> Repairing compact units for apartments or small spaces with specialized expertise.</li>
-                                        <li><strong>Combo Units:</strong> Handling washer-dryer combos with complex dual-function repairs.</li>
-                                    </ul>
-                                    <p>Supporting Bronx Homes and Businesses:</p>
-                                    <p>In Bronx, NY, our repair services cater to a variety of needs. We help homeowners keep their washing machines in top condition for family laundry. Families rely on us to ensure their washers are ready for everyday use. Small businesses like laundromats or fitness centers trust our expertise to maintain washers for high-volume operations. No matter your location, we’re committed to keeping your laundry routine running smoothly.</p>
-                                    <p>Book Your Repair Today:</p>
-                                    <p>For dependable, same-day washing machine repair in Bronx, NY, trust our local team to serve with precision. Call us at (718) 717-1706 to schedule your repair and keep your laundry efficient.</p>
-                                </div>
                             </div>
                         </div>
                         <div class="service-item">
@@ -458,37 +278,6 @@
                             </button>
                             <div class="service-detail" id="dryerContent">
                                 <p>Expert Service for All Models: Gas, Electric, Vented, Ventless, Heat Pump, Top-Load, Front-Load, Stackable & All-in-One Combo Units.</p>
-                                <p>Dryer Repair Service Bronx, New York</p>
-                                <button class="cta-button" onclick="toggleDropdown('dryerDropdown')">Learn More</button>
-                                <div id="dryerDropdown" class="dropdown-content" style="display: none;">
-                                    <h3>Dryer Repair Services in Bronx</h3>
-                                    <p>We provide specialized dryer repair services throughout Bronx, delivering swift and reliable solutions for residents. Our local team is dedicated to restoring your dryers, whether gas, electric, vented, ventless, heat pump, top-load, front-load, stackable, or all-in-one combo units, to full functionality with same-day service, ensuring your laundry routine stays on track. Whether you’re in a Bronx family home, an apartment, a business, or a residence, we offer precise repairs to keep your dryer performing at its best.</p>
-                                    <p>Our Service Areas:</p>
-                                    <ul>
-                                        <li><strong>Bronx, New York:</strong> We assist Bronx households with expert repairs for dryers, addressing issues like heating element failures, drum malfunctions, or ventilation problems with efficiency.</li>
-                                    </ul>
-                                    <p>Benefits of Our Dryer Repair:</p>
-                                    <ul>
-                                        <li><strong>Fast Turnaround:</strong> We value your time. That’s why we offer speedy service with same-day availability, getting your dryer back up and running without delay.</li>
-                                        <li><strong>Trained Specialists:</strong> Our technicians are highly skilled in dryer systems, using genuine parts to ensure repairs are built to last.</li>
-                                        <li><strong>Community-Centered Service:</strong> As a local Bronx provider, we tailor our approach to the unique needs of Bronx residents.</li>
-                                        <li><strong>Thorough Problem-Solving:</strong> We tackle everything from heating element failures to digital control glitches, ensuring your dryer runs reliably.</li>
-                                    </ul>
-                                    <p>Types of Dryers We Repair:</p>
-                                    <ul>
-                                        <li><strong>Gas Dryers:</strong> Addressing issues like igniter failures or gas valve malfunctions for efficient, high-capacity machines.</li>
-                                        <li><strong>Electric Dryers:</strong> Fixing heating element problems or control board errors for traditional, reliable dryers.</li>
-                                        <li><strong>Vented Dryers:</strong> Restoring home units with proper ventilation for daily family use with quick, precise repairs.</li>
-                                        <li><strong>Ventless Dryers:</strong> Servicing units that do not require external ventilation, ideal for apartments or small spaces.</li>
-                                        <li><strong>Heat Pump Dryers:</strong> Repairing energy-efficient dryers that use heat pump technology for improved energy savings.</li>
-                                        <li><strong>Stackable Dryers:</strong> Handling compact units designed for vertical stacking with other appliances.</li>
-                                        <li><strong>All-in-One Combo Dryers:</strong> Addressing complex dual-function repairs for combined washer-dryer units.</li>
-                                    </ul>
-                                    <p>Supporting Bronx Homes and Businesses:</p>
-                                    <p>In Bronx, NY, our repair services cater to a variety of needs. We help homeowners keep their dryers in top condition for family laundry. Families rely on us to ensure their dryers are ready for everyday use. Small businesses like laundromats or fitness centers trust our expertise to maintain dryers for high-volume operations. No matter your location, we’re committed to keeping your laundry routine running smoothly.</p>
-                                    <p>Book Your Repair Today:</p>
-                                    <p>For dependable, same-day dryer repair in Bronx, NY, trust our local team to serve with precision. Call us at (718) 717-1706 to schedule your repair and keep your laundry efficient.</p>
-                                </div>
                             </div>
                         </div>
                         <div class="service-item">
@@ -497,39 +286,7 @@
                                 <h3>Oven Repair</h3>
                             </button>
                             <div class="service-detail" id="ovenContent">
-                                <p>Expert Service For All Models: Gas, Electric, Wall, Double, Dual Fuel, Induction & Freestanding Models.</p>
-                                <p>Oven Repair Service Bronx, New York</p>
-                                <button class="cta-button" onclick="toggleDropdown('ovenDropdown')">Learn More</button>
-                                <div id="ovenDropdown" class="dropdown-content" style="display: none;">
-                                    <h3>Oven Repair Services in Bronx</h3>
-                                    <p>We provide specialized oven repair services throughout Bronx, delivering swift and reliable solutions for residents. Our local team is dedicated to restoring your ovens, whether gas, electric, wall, double, dual fuel, induction, or freestanding models, to full functionality with same-day service, ensuring your cooking routine stays on track. Whether you’re in a Bronx family home, an apartment, a business, or a residence, we offer precise repairs to keep your oven performing at its best.</p>
-                                    <p>Our Service Areas:</p>
-                                    <ul>
-                                        <li><strong>Bronx, New York:</strong> We assist Bronx households with expert repairs for ovens, addressing issues like heating element failures, temperature control malfunctions, or igniter problems with efficiency.</li>
-                                    </ul>
-                                    <p>Benefits of Our Oven Repair:</p>
-                                    <ul>
-                                        <li><strong>Fast Turnaround:</strong> We value your time. That’s why we offer speedy service with same-day availability, getting your oven back up and running without delay.</li>
-                                        <li><strong>Trained Specialists:</strong> Our technicians are highly skilled in oven systems, using genuine parts to ensure repairs are built to last.</li>
-                                        <li><strong>Community-Centered Service:</strong> As a local Bronx provider, we tailor our approach to the unique needs of Bronx residents.</li>
-                                        <li><strong>Thorough Problem-Solving:</strong> We tackle everything from heating element failures to digital control glitches, ensuring your oven runs reliably.</li>
-                                    </ul>
-                                    <p>Types of Ovens We Repair:</p>
-                                    <ul>
-                                        <li><strong>Gas Ovens:</strong> Addressing issues like igniter failures or gas valve malfunctions for efficient, high-capacity machines.</li>
-                                        <li><strong>Electric Ovens:</strong> Fixing heating element problems or control board errors for traditional, reliable ovens.</li>
-                                        <li><strong>Wall Ovens:</strong> Restoring built-in units designed for seamless kitchen integration with quick, precise repairs.</li>
-                                        <li><strong>Double Ovens:</strong> Servicing units with two separate oven compartments, ideal for large families or entertaining.</li>
-                                        <li><strong>Dual Fuel Ovens:</strong> Repairing ovens that combine gas and electric heating elements for versatile cooking options.</li>
-                                        <li><strong>Induction Ovens:</strong> Handling ovens that use induction technology for precise and efficient heating.</li>
-                                        <li><strong>Convection Ovens:</strong> Addressing ovens that use fans to circulate hot air, ensuring even cooking results.</li>
-                                        <li><strong>Freestanding Ovens:</strong> Fixing standalone units that offer flexibility in kitchen placement.</li>
-                                    </ul>
-                                    <p>Supporting Bronx Homes and Businesses:</p>
-                                    <p>In Bronx, NY, our repair services cater to a variety of needs. We help homeowners keep their ovens in top condition for family meals. Families rely on us to ensure their ovens are ready for everyday cooking. Small businesses like restaurants or bakeries trust our expertise to maintain ovens for high-volume operations. No matter your location, we’re committed to keeping your cooking routine running smoothly.</p>
-                                    <p>Book Your Repair Today:</p>
-                                    <p>For dependable, same-day oven repair in Bronx, NY, trust our local team to serve with precision. Call us at (718) 717-1706 to schedule your repair and keep your cooking efficient.</p>
-                                </div>
+                                <p>Expert Service For All Models: Gas, Electric, Wall, Double, Dual Fuel, Induction, Convection & Freestanding Models.</p>
                             </div>
                         </div>
                         <div class="service-item">
@@ -539,37 +296,6 @@
                             </button>
                             <div class="service-detail" id="dishwasherContent">
                                 <p>Expert Service for All Models: Freestanding, Built-In, Front Control, Top Control, Portable, Fully Integrated & Tall Tub Models.</p>
-                                <p>Dishwasher Repair Service Bronx, New York</p>
-                                <button class="cta-button" onclick="toggleDropdown('dishwasherDropdown')">Learn More</button>
-                                <div id="dishwasherDropdown" class="dropdown-content" style="display: none;">
-                                    <h3>Dishwasher Repair Services in Bronx</h3>
-                                    <p>We provide specialized dishwasher repair services throughout Bronx, delivering swift and reliable solutions for residents. Our local team is dedicated to restoring your dishwashers, whether freestanding, built-in, front control, top control, portable, fully integrated, or tall tub models, to full functionality with same-day service, ensuring your dish-washing routine stays on track. Whether you’re in a Bronx family home, an apartment, a business, or a residence, we offer precise repairs to keep your dishwasher performing at its best.</p>
-                                    <p>Our Service Areas:</p>
-                                    <ul>
-                                        <li><strong>Bronx, New York:</strong> We assist Bronx households with expert repairs for dishwashers, addressing issues like pump failures, drainage problems, or control board errors with efficiency.</li>
-                                    </ul>
-                                    <p>Benefits of Our Dishwasher Repair:</p>
-                                    <ul>
-                                        <li><strong>Fast Turnaround:</strong> We value your time. That’s why we offer speedy service with same-day availability, getting your dishwasher back up and running without delay.</li>
-                                        <li><strong>Trained Specialists:</strong> Our technicians are highly skilled in dishwasher systems, using genuine parts to ensure repairs are built to last.</li>
-                                        <li><strong>Community-Centered Service:</strong> As a local Bronx provider, we tailor our approach to the unique needs of Bronx residents.</li>
-                                        <li><strong>Thorough Problem-Solving:</strong> We tackle everything from pump failures to digital control glitches, ensuring your dishwasher runs reliably.</li>
-                                    </ul>
-                                    <p>Types of Dishwashers We Repair:</p>
-                                    <ul>
-                                        <li><strong>Freestanding Dishwashers:</strong> Addressing issues like pump failures or control board errors for traditional, reliable dishwashers.</li>
-                                        <li><strong>Built-In Dishwashers:</strong> Fixing integration issues or control board malfunctions for seamless kitchen designs.</li>
-                                        <li><strong>Front Control Dishwashers:</strong> Restoring units with front-located controls, ensuring easy access and operation.</li>
-                                        <li><strong>Top Control Dishwashers:</strong> Repairing units with top-located controls, ideal for modern and sleek kitchen designs.</li>
-                                        <li><strong>Portable Dishwashers:</strong> Servicing compact units designed for easy movement and flexibility in small spaces.</li>
-                                        <li><strong>Fully Integrated Dishwashers:</strong> Handling units designed to blend seamlessly with kitchen cabinetry, offering a built-in look.</li>
-                                        <li><strong>Tall Tub Dishwashers:</strong> Addressing units with increased interior space, accommodating larger items with ease.</li>
-                                    </ul>
-                                    <p>Supporting Bronx Homes and Businesses:</p>
-                                    <p>In Bronx, NY, our repair services cater to a variety of needs. We help homeowners keep their dishwashers in top condition for family meals. Families rely on us to ensure their dishwashers are ready for everyday use. Small businesses like restaurants or cafeterias trust our expertise to maintain dishwashers for high-volume operations. No matter your location, we’re committed to keeping your dish-washing routine running smoothly.</p>
-                                    <p>Book Your Repair Today:</p>
-                                    <p>For dependable, same-day dishwasher repair in Bronx, NY, trust our local team to serve with precision. Call us at (718) 717-1706 to schedule your repair and keep your dish-washing efficient.</p>
-                                </div>
                             </div>
                         </div>
                         <div class="service-item">
@@ -579,38 +305,6 @@
                             </button>
                             <div class="service-detail" id="refrigeratorContent">
                                 <p>Expert Service for All Models: Top Freezer, Bottom Freezer, French Door, Side-by-Side, Undercounter, Quad Door, Built-In & Counter-Depth Models.</p>
-                                <p>Refrigerator Repair Service Bronx, New York</p>
-                                <button class="cta-button" onclick="toggleDropdown('refrigeratorDropdown')">Learn More</button>
-                                <div id="refrigeratorDropdown" class="dropdown-content" style="display: none;">
-                                    <h3>Refrigerator Repair Services in Bronx</h3>
-                                    <p>We provide specialized refrigerator repair services throughout Bronx, delivering swift and reliable solutions for residents. Our local team is dedicated to restoring your refrigerators, whether top freezer, bottom freezer, French door, side-by-side, undercounter, quad door, built-in, or counter-depth models, to full functionality with same-day service, ensuring your food storage routine stays on track. Whether you’re in a Bronx family home, an apartment, a business, or a residence, we offer precise repairs to keep your refrigerator performing at its best.</p>
-                                    <p>Our Service Areas:</p>
-                                    <ul>
-                                        <li><strong>Bronx, New York:</strong> We assist Bronx households with expert repairs for refrigerators, addressing issues like compressor failures, cooling problems, or ice maker malfunctions with efficiency.</li>
-                                    </ul>
-                                    <p>Benefits of Our Refrigerator Repair:</p>
-                                    <ul>
-                                        <li><strong>Fast Turnaround:</strong> We value your time. That’s why we offer speedy service with same-day availability, getting your refrigerator back up and running without delay.</li>
-                                        <li><strong>Trained Specialists:</strong> Our technicians are highly skilled in refrigerator systems, using genuine parts to ensure repairs are built to last.</li>
-                                        <li><strong>Community-Centered Service:</strong> As a local Bronx provider, we tailor our approach to the unique needs of Bronx residents.</li>
-                                        <li><strong>Thorough Problem-Solving:</strong> We tackle everything from compressor failures to digital control glitches, ensuring your refrigerator runs reliably.</li>
-                                    </ul>
-                                    <p>Types of Refrigerators We Repair:</p>
-                                    <ul>
-                                        <li><strong>Top Freezer Refrigerators:</strong> Addressing issues like compressor failures or cooling problems for traditional, reliable refrigerators.</li>
-                                        <li><strong>Bottom Freezer Refrigerators:</strong> Fixing cooling issues or compressor malfunctions for modern and convenient refrigerators.</li>
-                                        <li><strong>French Door Refrigerators:</strong> Restoring high-end units with double doors and bottom freezers, offering easy access and ample storage.</li>
-                                        <li><strong>Side-by-Side Refrigerators:</strong> Repairing units with side-by-side freezer and refrigerator compartments, ideal for large families or entertaining.</li>
-                                        <li><strong>Undercounter Refrigerators:</strong> Servicing compact units designed for integration with kitchen cabinetry, offering a built-in look.</li>
-                                        <li><strong>Quad Door Refrigerators:</strong> Handling high-end units with four doors, offering separate compartments for refrigerator, freezer, and additional storage.</li>
-                                        <li><strong>Built-In Refrigerators:</strong> Addressing units designed to blend seamlessly with kitchen cabinetry, offering a custom and integrated look.</li>
-                                        <li><strong>Counter-Depth Refrigerators:</strong> Fixing units designed to align flush with kitchen counters, offering a sleek and modern appearance.</li>
-                                    </ul>
-                                    <p>Supporting Bronx Homes and Businesses:</p>
-                                    <p>In Bronx, NY, our repair services cater to a variety of needs. We help homeowners keep their refrigerators in top condition for family food storage. Families rely on us to ensure their refrigerators are ready for everyday use. Small businesses like restaurants or convenience stores trust our expertise to maintain refrigerators for high-volume operations. No matter your location, we’re committed to keeping your food storage routine running smoothly.</p>
-                                    <p>Book Your Repair Today:</p>
-                                    <p>For dependable, same-day refrigerator repair in Bronx, NY, trust our local team to serve with precision. Call us at (718) 717-1706 to schedule your repair and keep your food storage efficient.</p>
-                                </div>
                             </div>
                         </div>
                         <div class="service-item">
@@ -620,36 +314,6 @@
                             </button>
                             <div class="service-detail" id="wineCoolerContent">
                                 <p>Expert Service for All Models: Freestanding, Single Zone, Countertop, Compressor Thermoelectric, Wine Cabinets, Dual Zone Wine Coolers.</p>
-                                <p>Wine Cooler Repair Service Bronx, New York</p>
-                                <button class="cta-button" onclick="toggleDropdown('wineCoolerDropdown')">Learn More</button>
-                                <div id="wineCoolerDropdown" class="dropdown-content" style="display: none;">
-                                    <h3>Wine Cooler Repair Services in Bronx</h3>
-                                    <p>We provide specialized wine cooler repair services throughout Bronx, delivering swift and reliable solutions for residents. Our local team is dedicated to restoring your wine coolers, whether freestanding, single zone, countertop, compressor thermoelectric, wine cabinets, or dual zone models, to full functionality with same-day service, ensuring your wine storage routine stays on track. Whether you’re in a Bronx family home, an apartment, a business, or a residence, we offer precise repairs to keep your wine cooler performing at its best.</p>
-                                    <p>Our Service Areas:</p>
-                                    <ul>
-                                        <li><strong>Bronx, New York:</strong> We assist Bronx households with expert repairs for wine coolers, addressing issues like compressor failures, cooling problems, or temperature control malfunctions with efficiency.</li>
-                                    </ul>
-                                    <p>Benefits of Our Wine Cooler Repair:</p>
-                                    <ul>
-                                        <li><strong>Fast Turnaround:</strong> We value your time. That’s why we offer speedy service with same-day availability, getting your wine cooler back up and running without delay.</li>
-                                        <li><strong>Trained Specialists:</strong> Our technicians are highly skilled in wine cooler systems, using genuine parts to ensure repairs are built to last.</li>
-                                        <li><strong>Community-Centered Service:</strong> As a local Bronx provider, we tailor our approach to the unique needs of Bronx residents.</li>
-                                        <li><strong>Thorough Problem-Solving:</strong> We tackle everything from compressor failures to digital control glitches, ensuring your wine cooler runs reliably.</li>
-                                    </ul>
-                                    <p>Types of Wine Coolers We Repair:</p>
-                                    <ul>
-                                        <li><strong>Freestanding Wine Coolers:</strong> Addressing issues like compressor failures or cooling problems for traditional, reliable wine coolers.</li>
-                                        <li><strong>Single Zone Wine Coolers:</strong> Fixing temperature control issues or cooling malfunctions for consistent wine storage.</li>
-                                        <li><strong>Countertop Wine Coolers:</strong> Restoring compact units designed for countertop placement, offering convenient wine storage solutions.</li>
-                                        <li><strong>Compressor Thermoelectric Wine Coolers:</strong> Repairing units that use thermoelectric technology for quiet and vibration-free operation.</li>
-                                        <li><strong>Wine Cabinets:</strong> Servicing high-end units designed for seamless integration with home decor, offering a sophisticated wine storage solution.</li>
-                                        <li><strong>Dual Zone Wine Coolers:</strong> Handling units with separate temperature-controlled zones for optimal wine storage conditions.</li>
-                                    </ul>
-                                    <p>Supporting Bronx Homes and Businesses:</p>
-                                    <p>In Bronx, NY, our repair services cater to a variety of needs. We help homeowners keep their wine coolers in top condition for optimal wine storage. Wine enthusiasts rely on us to ensure their wine coolers are ready for everyday use. Small businesses like wine bars or restaurants trust our expertise to maintain wine coolers for high-volume operations. No matter your location, we’re committed to keeping your wine storage routine running smoothly.</p>
-                                    <p>Book Your Repair Today:</p>
-                                    <p>For dependable, same-day wine cooler repair in Bronx, NY, trust our local team to serve with precision. Call us at (718) 717-1706 to schedule your repair and keep your wine storage efficient.</p>
-                                </div>
                             </div>
                         </div>
                         <div class="service-item">
@@ -659,35 +323,6 @@
                             </button>
                             <div class="service-detail" id="microwaveContent">
                                 <p>Expert Service for All Models: Countertop, Built-In, Over-the-Range, Grill, and Smart Microwaves.</p>
-                                <p>Microwave Repair Service Bronx, New York</p>
-                                <button class="cta-button" onclick="toggleDropdown('microwaveDropdown')">Learn More</button>
-                                <div id="microwaveDropdown" class="dropdown-content" style="display: none;">
-                                    <h3>Microwave Repair Services in Bronx</h3>
-                                    <p>We provide specialized microwave repair services throughout Bronx, delivering swift and reliable solutions for residents. Our local team is dedicated to restoring your microwaves, whether countertop, built-in, over-the-range, grill, or smart models, to full functionality with same-day service, ensuring your cooking routine stays on track. Whether you’re in a Bronx family home, an apartment, a business, or a residence, we offer precise repairs to keep your microwave performing at its best.</p>
-                                    <p>Our Service Areas:</p>
-                                    <ul>
-                                        <li><strong>Bronx, New York:</strong> We assist Bronx households with expert repairs for microwaves, addressing issues like magnetron failures, control board errors, or heating problems with efficiency.</li>
-                                    </ul>
-                                    <p>Benefits of Our Microwave Repair:</p>
-                                    <ul>
-                                        <li><strong>Fast Turnaround:</strong> We value your time. That’s why we offer speedy service with same-day availability, getting your microwave back up and running without delay.</li>
-                                        <li><strong>Trained Specialists:</strong> Our technicians are highly skilled in microwave systems, using genuine parts to ensure repairs are built to last.</li>
-                                        <li><strong>Community-Centered Service:</strong> As a local Bronx provider, we tailor our approach to the unique needs of Bronx residents.</li>
-                                        <li><strong>Thorough Problem-Solving:</strong> We tackle everything from magnetron failures to digital control glitches, ensuring your microwave runs reliably.</li>
-                                    </ul>
-                                    <p>Types of Microwaves We Repair:</p>
-                                    <ul>
-                                        <li><strong>Countertop Microwaves:</strong> Addressing issues like magnetron failures or control board errors for traditional, reliable microwaves.</li>
-                                        <li><strong>Built-In Microwaves:</strong> Fixing integration issues or control board malfunctions for seamless kitchen designs.</li>
-                                        <li><strong>Over-the-Range Microwaves:</strong> Restoring units designed for installation above the range, offering convenient cooking solutions.</li>
-                                        <li><strong>Grill Microwaves:</strong> Repairing units with grill functions, providing additional cooking options.</li>
-                                        <li><strong>Smart Microwaves:</strong> Handling units with smart technology, offering advanced features and connectivity options.</li>
-                                    </ul>
-                                    <p>Supporting Bronx Homes and Businesses:</p>
-                                    <p>In Bronx, NY, our repair services cater to a variety of needs. We help homeowners keep their microwaves in top condition for family meals. Families rely on us to ensure their microwaves are ready for everyday use. Small businesses like restaurants or cafeterias trust our expertise to maintain microwaves for high-volume operations. No matter your location, we’re committed to keeping your cooking routine running smoothly.</p>
-                                    <p>Book Your Repair Today:</p>
-                                    <p>For dependable, same-day microwave repair in Bronx, NY, trust our local team to serve with precision. Call us at (718) 717-1706 to schedule your repair and keep your cooking efficient.</p>
-                                </div>
                             </div>
                         </div>
                         <div class="service-item">
@@ -697,104 +332,34 @@
                             </button>
                             <div class="service-detail" id="cooktopContent">
                                 <p>Expert Service for All Models: Gas, Electric, Induction, Downdraft, and Commercial-Style Cooktops.</p>
-                                <p>Cooktop Repair Service Bronx, New York</p>
-                                <button class="cta-button" onclick="toggleDropdown('cooktopDropdown')">Learn More</button>
-                                <div id="cooktopDropdown" class="dropdown-content" style="display: none;">
-                                    <h3>Cooktop Repair Services in Bronx</h3>
-                                    <p>We provide specialized cooktop repair services throughout Bronx, delivering swift and reliable solutions for residents. Our local team is dedicated to restoring your cooktops, whether gas, electric, induction, downdraft, or commercial-style models, to full functionality with same-day service, ensuring your cooking routine stays on track. Whether you’re in a Bronx family home, an apartment, a business, or a residence, we offer precise repairs to keep your cooktop performing at its best.</p>
-                                    <p>Our Service Areas:</p>
-                                    <ul>
-                                        <li><strong>Bronx, New York:</strong> We assist Bronx households with expert repairs for cooktops, addressing issues like burner failures, control board errors, or ignition problems with efficiency.</li>
-                                    </ul>
-                                    <p>Benefits of Our Cooktop Repair:</p>
-                                    <ul>
-                                        <li><strong>Fast Turnaround:</strong> We value your time. That’s why we offer speedy service with same-day availability, getting your cooktop back up and running without delay.</li>
-                                        <li><strong>Trained Specialists:</strong> Our technicians are highly skilled in cooktop systems, using genuine parts to ensure repairs are built to last.</li>
-                                        <li><strong>Community-Centered Service:</strong> As a local Bronx provider, we tailor our approach to the unique needs of Bronx residents.</li>
-                                        <li><strong>Thorough Problem-Solving:</strong> We tackle everything from burner failures to digital control glitches, ensuring your cooktop runs reliably.</li>
-                                    </ul>
-                                    <p>Types of Cooktops We Repair:</p>
-                                    <ul>
-                                        <li><strong>Gas Cooktops:</strong> Addressing issues like burner failures or ignition problems for efficient, high-capacity cooking.</li>
-                                        <li><strong>Electric Cooktops:</strong> Fixing heating element problems or control board errors for traditional, reliable cooking.</li>
-                                        <li><strong>Induction Cooktops:</strong> Restoring units that use induction technology for precise and efficient heating.</li>
-                                        <li><strong>Downdraft Cooktops:</strong> Repairing units designed with integrated ventilation systems, offering a streamlined cooking experience.</li>
-                                        <li><strong>Commercial-Style Cooktops:</strong> Handling high-end units designed for professional-grade cooking, providing advanced features and durability.</li>
-                                    </ul>
-                                    <p>Supporting Bronx Homes and Businesses:</p>
-                                    <p>In Bronx, NY, our repair services cater to a variety of needs. We help homeowners keep their cooktops in top condition for family meals. Families rely on us to ensure their cooktops are ready for everyday use. Small businesses like restaurants or catering services trust our expertise to maintain cooktops for high-volume operations. No matter your location, we’re committed to keeping your cooking routine running smoothly.</p>
-                                    <p>Book Your Repair Today:</p>
-                                    <p>For dependable, same-day cooktop repair in Bronx, NY, trust our local team to serve with precision. Call us at (718) 717-1706 to schedule your repair and keep your cooking efficient.</p>
-                                </div>
                             </div>
                         </div>
                     </div>
                 </div>
             </section>
 
-            <section class="section" id="service-areas" role="region" aria-label="Serving All Bronx Neighborhoods">
-                <h2>Serving All Bronx Neighborhoods</h2>
+            <section class="section" id="service-areas" role="region" aria-label="Service Areas">
+                <h2>Service Areas in NYC</h2>
                 <button class="cta-button" onclick="toggleSection('serviceAreasContent')" aria-label="Toggle service areas content">View Service Areas</button>
                 <div class="section-content" id="serviceAreasContent">
-                    <p>Offering top-tier appliance repair in Bronx, including washing machine, dryer, and refrigerator repairs with same-day service across all neighborhoods. Contact us for a full list of areas we serve.</p>
-                    <div class="neighborhood-dropdown">
-                        <div class="neighborhood-item"><span>Allerton</span> - 10467</div>
-                        <div class="neighborhood-item"><span>Baychester</span> - 10469</div>
-                        <div class="neighborhood-item"><span>Bedford Park</span> - 10468</div>
-                        <div class="neighborhood-item"><span>Belmont</span> - 10458</div>
-                        <div class="neighborhood-item"><span>Bronxdale</span> - 10462</div>
-                        <div class="neighborhood-item"><span>Bronx River</span> - 10472</div>
-                        <div class="neighborhood-item"><span>Bronxwood</span> - 10469</div>
-                        <div class="neighborhood-item"><span>Castle Hill</span> - 10473</div>
-                        <div class="neighborhood-item"><span>City Island</span> - 10464</div>
-                        <div class="neighborhood-item"><span>Claremont</span> - 10452</div>
-                        <div class="neighborhood-item"><span>Clason Point</span> - 10473</div>
-                        <div class="neighborhood-item"><span>Co-op City</span> - 10475</div>
-                        <div class="neighborhood-item"><span>Concourse</span> - 10451</div>
-                        <div class="neighborhood-item"><span>Concourse Village</span> - 10451</div>
-                        <div class="neighborhood-item"><span>Country Club</span> - 10465</div>
-                        <div class="neighborhood-item"><span>Crotona</span> - 10459</div>
-                        <div class="neighborhood-item"><span>Eastchester</span> - 10475</div>
-                        <div class="neighborhood-item"><span>Edenwald</span> - 10466</div>
-                        <div class="neighborhood-item"><span>Edgewater Park</span> - 10465</div>
-                        <div class="neighborhood-item"><span>Fieldston</span> - 10471</div>
-                        <div class="neighborhood-item"><span>Fordham</span> - 10458</div>
-                        <div class="neighborhood-item"><span>Highbridge</span> - 10452</div>
-                        <div class="neighborhood-item"><span>Hunts Point</span> - 10474</div>
-                        <div class="neighborhood-item"><span>Indian Village</span> - 10463</div>
-                        <div class="neighborhood-item"><span>Jerome Park</span> - 10468</div>
-                        <div class="neighborhood-item"><span>Kingsbridge</span> - 10463</div>
-                        <div class="neighborhood-item"><span>Kingsbridge Heights</span> - 10463</div>
-                        <div class="neighborhood-item"><span>Laconia</span> - 10469</div>
-                        <div class="neighborhood-item"><span>Longwood</span> - 10459</div>
-                        <div class="neighborhood-item"><span>Melrose</span> - 10455</div>
-                        <div class="neighborhood-item"><span>Morris Heights</span> - 10453</div>
-                        <div class="neighborhood-item"><span>Morris Park</span> - 10462</div>
-                        <div class="neighborhood-item"><span>Morrisania</span> - 10456</div>
-                        <div class="neighborhood-item"><span>Mott Haven</span> - 10454</div>
-                        <div class="neighborhood-item"><span>Mount Eden</span> - 10452</div>
-                        <div class="neighborhood-item"><span>Mount Hope</span> - 10453</div>
-                        <div class="neighborhood-item"><span>Norwood</span> - 10467</div>
-                        <div class="neighborhood-item"><span>Olinville</span> - 10467</div>
-                        <div class="neighborhood-item"><span>Parkchester</span> - 10462</div>
-                        <div class="neighborhood-item"><span>Pelham Bay</span> - 10461</div>
-                        <div class="neighborhood-item"><span>Pelham Gardens</span> - 10469</div>
-                        <div class="neighborhood-item"><span>Pelham Parkway</span> - 10462</div>
-                        <div class="neighborhood-item"><span>Port Morris</span> - 10454</div>
-                        <div class="neighborhood-item"><span>Riverdale</span> - 10471</div>
-                        <div class="neighborhood-item"><span>Schuylerville</span> - 10461</div>
-                        <div class="neighborhood-item"><span>Soundview</span> - 10472</div>
-                        <div class="neighborhood-item"><span>Spuyten Duyvil</span> - 10463</div>
-                        <div class="neighborhood-item"><span>Throgs Neck</span> - 10465</div>
-                        <div class="neighborhood-item"><span>Tremont</span> - 10457</div>
-                        <div class="neighborhood-item"><span>Unionport</span> - 10462</div>
-                        <div class="neighborhood-item"><span>University Heights</span> - 10468</div>
-                        <div class="neighborhood-item"><span>Van Nest</span> - 10462</div>
-                        <div class="neighborhood-item"><span>Wakefield</span> - 10466</div>
-                        <div class="neighborhood-item"><span>West Farms</span> - 10460</div>
-                        <div class="neighborhood-item"><span>Westchester Square</span> - 10461</div>
-                        <div class="neighborhood-item"><span>Williamsbridge</span> - 10467</div>
-                        <div class="neighborhood-item"><span>Woodlawn</span> - 10470</div>
+                    <p>We provide expert appliance repair services across New York City’s major boroughs.</p>
+                    <div class="borough-grid">
+                        <div class="borough-item">
+                            <h3>Manhattan</h3>
+                            <p class="borough-desc">Offering top-tier appliance repair in Manhattan, including washing machine, dryer, and refrigerator repairs with same-day service across all neighborhoods. Contact us for a full list of neighborhoods we serve.</p>
+                        </div>
+                        <div class="borough-item">
+                            <h3>Brooklyn</h3>
+                            <p class="borough-desc">Trusted appliance repair in Brooklyn, from ovens to dishwashers, ensuring fast, reliable fixes for homes and businesses throughout the borough. Contact us for a full list of neighborhoods we serve.</p>
+                        </div>
+                        <div class="borough-item">
+                            <h3>Queens</h3>
+                            <p class="borough-desc">Comprehensive appliance repair in Queens, specializing in high-end brands and smart appliances, with quick response times for all your repair needs. Contact us for a full list of neighborhoods we serve.</p>
+                        </div>
+                        <div class="borough-item">
+                            <h3>The Bronx</h3>
+                            <p class="borough-desc">Expert appliance repair in the Bronx, delivering professional service for microwaves, cooktops, and more, with a focus on customer satisfaction. Contact us for a full list of neighborhoods we serve.</p>
+                        </div>
                     </div>
                 </div>
             </section>
@@ -803,182 +368,170 @@
                 <h2>Appliance Brands We Service</h2>
                 <button class="cta-button" onclick="toggleSection('brandsContent')" aria-label="Toggle brands content">View Brands</button>
                 <div class="section-content" id="brandsContent">
-                    <p>We provide expert repair for top appliance brands in Bronx, ensuring quality service for all makes and models.</p>
+                    <p>We provide expert repair for top appliance brands in NYC, ensuring quality service for all makes and models.</p>
                     <div class="brands-grid">
                         <ul>
                             <li class="brand-item">
                                 <h3>Amana</h3>
-                                <p class="brand-desc">Amana Appliance Repair Bronx</p>
+                                <p class="brand-desc">Amana Appliance Repair NYC</p>
                             </li>
                             <li class="brand-item">
                                 <h3>Asko</h3>
-                                <p class="brand-desc">Asko Appliance Repair Bronx</p>
+                                <p class="brand-desc">Asko Appliance Repair NYC</p>
                             </li>
                             <li class="brand-item">
                                 <h3>Bertazzoni</h3>
-                                <p class="brand-desc">Bertazzoni Appliance Repair Bronx</p>
+                                <p class="brand-desc">Bertazzoni Appliance Repair NYC</p>
                             </li>
                             <li class="brand-item">
                                 <h3>Blomberg</h3>
-                                <p class="brand-desc">Blomberg Appliance Repair Bronx</p>
+                                <p class="brand-desc">Blomberg Appliance Repair NYC</p>
                             </li>
                             <li class="brand-item">
                                 <h3>Blue Star</h3>
-                                <p class="brand-desc">Blue Star Appliance Repair Bronx</p>
+                                <p class="brand-desc">Blue Star Appliance Repair NYC</p>
                             </li>
                             <li class="brand-item">
                                 <h3>Bosch</h3>
-                                <p class="brand-desc">Bosch Appliance Repair Bronx</p>
+                                <p class="brand-desc">Bosch Appliance Repair NYC</p>
                             </li>
                             <li class="brand-item">
                                 <h3>Broan</h3>
-                                <p class="brand-desc">Broan Appliance Repair Bronx</p>
+                                <p class="brand-desc">Broan Appliance Repair NYC</p>
                             </li>
                             <li class="brand-item">
                                 <h3>Cafe – GE</h3>
-                                <p class="brand-desc">Cafe – GE Appliance Repair Bronx</p>
+                                <p class="brand-desc">Cafe – GE Appliance Repair NYC</p>
                             </li>
                             <li class="brand-item">
                                 <h3>Cove</h3>
-                                <p class="brand-desc">Cove Appliance Repair Bronx</p>
+                                <p class="brand-desc">Cove Appliance Repair NYC</p>
                             </li>
                             <li class="brand-item">
                                 <h3>Dacor</h3>
-                                <p class="brand-desc">Dacor Appliance Repair Bronx</p>
+                                <p class="brand-desc">Dacor Appliance Repair NYC</p>
                             </li>
                             <li class="brand-item">
                                 <h3>Danby</h3>
-                                <p class="brand-desc">Danby Appliance Repair Bronx</p>
+                                <p class="brand-desc">Danby Appliance Repair NYC</p>
                             </li>
                             <li class="brand-item">
                                 <h3>Electrolux</h3>
-                                <p class="brand-desc">Electrolux Appliance Repair Bronx</p>
+                                <p class="brand-desc">Electrolux Appliance Repair NYC</p>
                             </li>
                             <li class="brand-item">
                                 <h3>Fisher & Paykel</h3>
-                                <p class="brand-desc">Fisher & Paykel Appliance Repair Bronx</p>
+                                <p class="brand-desc">Fisher & Paykel Appliance Repair NYC</p>
                             </li>
                             <li class="brand-item">
                                 <h3>Frigidaire</h3>
-                                <p class="brand-desc">Frigidaire Appliance Repair Bronx</p>
+                                <p class="brand-desc">Frigidaire Appliance Repair NYC</p>
                             </li>
                             <li class="brand-item">
                                 <h3>Fulgor Milano</h3>
-                                <p class="brand-desc">Fulgor Milano Appliance Repair Bronx</p>
+                                <p class="brand-desc">Fulgor Milano Appliance Repair NYC</p>
                             </li>
                             <li class="brand-item">
                                 <h3>General Electric</h3>
-                                <p class="brand-desc">General Electric Appliance Repair Bronx</p>
+                                <p class="brand-desc">General Electric Appliance Repair NYC</p>
                             </li>
                             <li class="brand-item">
                                 <h3>Gaggenau</h3>
-                                <p class="brand-desc">Gaggenau Appliance Repair Bronx</p>
+                                <p class="brand-desc">Gaggenau Appliance Repair NYC</p>
                             </li>
                             <li class="brand-item">
                                 <h3>Haier</h3>
-                                <p class="brand-desc">Haier Appliance Repair Bronx</p>
+                                <p class="brand-desc">Haier Appliance Repair NYC</p>
                             </li>
                             <li class="brand-item">
                                 <h3>Hotpoint</h3>
-                                <p class="brand-desc">Hotpoint Appliance Repair Bronx</p>
+                                <p class="brand-desc">Hotpoint Appliance Repair NYC</p>
                             </li>
                             <li class="brand-item">
                                 <h3>Jenn-Air</h3>
-                                <p class="brand-desc">Jenn-Air Appliance Repair Bronx</p>
+                                <p class="brand-desc">Jenn-Air Appliance Repair NYC</p>
                             </li>
                             <li class="brand-item">
                                 <h3>KitchenAid</h3>
-                                <p class="brand-desc">KitchenAid Appliance Repair Bronx</p>
+                                <p class="brand-desc">KitchenAid Appliance Repair NYC</p>
+                            </li>
+                            <li class="brand-item">
+                                <h3>LG</h3>
+                                <p class="brand-desc">LG Appliance Repair NYC</p>
+                            </li>
+                            <li class="brand-item">
+                                <h3>Liebherr</h3>
+                                <p class="brand-desc">Liebherr Appliance Repair NYC</p>
                             </li>
                         </ul>
                         <ul>
                             <li class="brand-item">
-                                <h3>LG</h3>
-                                <p class="brand-desc">LG Appliance Repair Bronx</p>
-                            </li>
-                            <li class="brand-item">
-                                <h3>Liebherr</h3>
-                                <p class="brand-desc">Liebherr Appliance Repair Bronx</p>
-                            </li>
-                            <li class="brand-item">
                                 <h3>Marvel</h3>
-                                <p class="brand-desc">Marvel Appliance Repair Bronx</p>
+                                <p class="brand-desc">Marvel Appliance Repair NYC</p>
                             </li>
                             <li class="brand-item">
                                 <h3>Maytag</h3>
-                                <p class="brand-desc">Maytag Appliance Repair Bronx</p>
+                                <p class="brand-desc">Maytag Appliance Repair NYC</p>
                             </li>
                             <li class="brand-item">
                                 <h3>Miele</h3>
-                                <p class="brand-desc">Miele Appliance Repair Bronx</p>
+                                <p class="brand-desc">Miele Appliance Repair NYC</p>
                             </li>
                             <li class="brand-item">
                                 <h3>Premier</h3>
-                                <p class="brand-desc">Premier Appliance Repair Bronx</p>
+                                <p class="brand-desc">Premier Appliance Repair NYC</p>
                             </li>
                             <li class="brand-item">
                                 <h3>Samsung</h3>
-                                <p class="brand-desc">Samsung Appliance Repair Bronx</p>
+                                <p class="brand-desc">Samsung Appliance Repair NYC</p>
                             </li>
                             <li class="brand-item">
                                 <h3>Sharp</h3>
-                                <p class="brand-desc">Sharp Appliance Repair Bronx</p>
+                                <p class="brand-desc">Sharp Appliance Repair NYC</p>
                             </li>
                             <li class="brand-item">
                                 <h3>Sirius</h3>
-                                <p class="brand-desc">Sirius Appliance Repair Bronx</p>
+                                <p class="brand-desc">Sirius Appliance Repair NYC</p>
                             </li>
                             <li class="brand-item">
                                 <h3>Smeg</h3>
-                                <p class="brand-desc">Smeg Appliance Repair Bronx</p>
+                                <p class="brand-desc">Smeg Appliance Repair NYC</p>
                             </li>
                             <li class="brand-item">
                                 <h3>Sub Zero</h3>
-                                <p class="brand-desc">Sub Zero Appliance Repair Bronx</p>
+                                <p class="brand-desc">Sub Zero Appliance Repair NYC</p>
                             </li>
                             <li class="brand-item">
                                 <h3>Tappan</h3>
-                                <p class="brand-desc">Tappan Appliance Repair Bronx</p>
+                                <p class="brand-desc">Tappan Appliance Repair NYC</p>
                             </li>
                             <li class="brand-item">
                                 <h3>Thermador</h3>
-                                <p class="brand-desc">Thermador Appliance Repair Bronx</p>
+                                <p class="brand-desc">Thermador Appliance Repair NYC</p>
                             </li>
                             <li class="brand-item">
                                 <h3>Thor Kitchen</h3>
-                                <p class="brand-desc">Thor Kitchen Appliance Repair Bronx</p>
+                                <p class="brand-desc">Thor Kitchen Appliance Repair NYC</p>
                             </li>
                             <li class="brand-item">
                                 <h3>Vent-A-Hood</h3>
-                                <p class="brand-desc">Vent-A-Hood Appliance Repair Bronx</p>
+                                <p class="brand-desc">Vent-A-Hood Appliance Repair NYC</p>
                             </li>
                             <li class="brand-item">
                                 <h3>Viking</h3>
-                                <p class="brand-desc">Viking Appliance Repair Bronx</p>
+                                <p class="brand-desc">Viking Appliance Repair NYC</p>
                             </li>
                             <li class="brand-item">
                                 <h3>Whirlpool</h3>
-                                <p class="brand-desc">Whirlpool Appliance Repair Bronx</p>
+                                <p class="brand-desc">Whirlpool Appliance Repair NYC</p>
                             </li>
                             <li class="brand-item">
                                 <h3>Wolf</h3>
-                                <p class="brand-desc">Wolf Appliance Repair Bronx</p>
+                                <p class="brand-desc">Wolf Appliance Repair NYC</p>
                             </li>
                             <li class="brand-item">
                                 <h3>Speed Queen</h3>
-                                <p class="brand-desc">Speed Queen Appliance Repair Bronx</p>
-                            </li>
-                            <li class="brand-item">
-                                <h3>Zephyr</h3>
-                                <p class="brand-desc">Zephyr Appliance Repair Bronx</p>
-                            </li>
-                            <li class="brand-item">
-                                <h3>Summit</h3>
-                                <p class="brand-desc">Summit Appliance Repair Bronx</p>
-                            </li>
-                            <li class="brand-item">
-                                <h3>Equator</h3>
-                                <p class="brand-desc">Equator Appliance Repair Bronx</p>
+                                <p class="brand-desc">Speed Queen Appliance Repair NYC</p>
                             </li>
                         </ul>
                     </div>
@@ -997,11 +550,10 @@
                         <li><strong>Smart Appliance Connectivity Support</strong></li>
                         <li><strong>Professional Deep Cleaning Services</strong></li>
                         <li><strong>Energy Efficiency Upgrades & Optimization</strong></li>
-                        <li>Emergency Repairs: <em>24/7 support for urgent appliance issues in Bronx</em>.</li>
+                        <li>Emergency Repairs: <em>24/7 support for urgent appliance issues in NYC</em>.</li>
                         <li><strong>Noise & Vibration Reduction Services</strong></li>
                         <li><strong>Commercial & Multi-Unit Appliance Services</strong></li>
                         <li><strong>Recalls & Safety Compliance Checks</strong></li>
-                        <li><strong>Professional Installation Services</strong>: We provide professional installation for washer & dryer, refrigerator, dishwasher, microwave, cooktop, and oven.</li>
                         <li><strong>EPA Section 608 Certification</strong></li>
                     </ul>
                 </div>
@@ -1009,7 +561,6 @@
 
             <section class="section" id="reviews" role="region" aria-label="Customer Reviews">
                 <h2>Customer Reviews</h2>
-                <p>Over 1,000 Reviews!</p>
                 <button class="cta-button" onclick="toggleSection('reviewsContent')" aria-label="Toggle reviews content">Read Reviews</button>
                 <div class="section-content" id="reviewsContent">
                     <div class="widget-wrapper">
@@ -1020,18 +571,18 @@
             </section>
 
             <section class="section" id="about" role="region" aria-label="About Us">
-                <h2>About Bronx Appliance Repair Specialist</h2>
+                <h2>About Gringer Appliance Repair</h2>
                 <button class="cta-button" onclick="toggleSection('aboutContent')" aria-label="Toggle about content">Learn More</button>
                 <div class="section-content" id="aboutContent">
-                    <p>Serving Bronx since 1993, Bronx Appliance Repair Specialist is a trusted name in Bronx, NY, delivering fast, reliable appliance repair across the city and surrounding areas. Our skilled technicians ensure your appliances are restored with precision.</p>
+                    <p>Since 1918, Gringer Appliance Repair Service has been a trusted name in New York City. Our family-owned business delivers fast, reliable appliance repair across Manhattan, Brooklyn, Queens, and the Bronx. With factory-trained technicians, we ensure your appliances are restored with precision.</p>
                 </div>
             </section>
 
             <section class="section" id="contact" role="region" aria-label="Contact Us">
-                <h2>Contact Bronx Appliance Repair Specialist</h2>
+                <h2>Contact Gringer Appliance Repair</h2>
                 <button class="cta-button" onclick="toggleSection('contactContent')" aria-label="Toggle contact content">Get in Touch</button>
                 <div class="section-content" id="contactContent">
-                    <p>Contact us for expert appliance repair in Bronx. Reach out via phone at <a href="tel:+17187171706">+1 (718) 717-1706</a> or email at <a href="mailto:info@bronxappliancerepair.com">info@bronxappliancerepair.com</a>.</p>
+                    <p>Contact us for expert appliance repair in NYC. Reach out via phone at <a href="tel:7187171706">+1 (718) 717-1706</a> or email at <a href="mailto:info@gringerappliancerepair.com">info@gringerappliancerepair.com</a>.</p>
                 </div>
             </section>
 
@@ -1039,7 +590,7 @@
                 <h2>100% Or Your Money Back Guaranteed Policy</h2>
                 <button class="cta-button" onclick="toggleSection('guaranteePolicyContent')" aria-label="Toggle guarantee policy content">View Policy</button>
                 <div class="section-content" id="guaranteePolicyContent">
-                    <p>We understand the frustration of dealing with companies that charge for repairs they can’t complete or lack the expertise to get the job done right. At <strong>Bronx Appliance Repair Specialist</strong>, we believe in <em>honest, reliable service</em> you can trust. That’s why we offer a <strong>100% Money-Back Guarantee</strong>.</p>
+                    <p>We understand the frustration of dealing with companies that charge for repairs they can’t complete or lack the experience to get the job done right. At <strong>Gringer Appliance Repair Service</strong>, we believe in <em>honest, reliable service</em> you can trust. That’s why we offer a <strong>100% Money-Back Guarantee</strong>.</p>
                     <p>If we are unable to complete your appliance repair due to our own limitations or lack of expertise, you will receive a full refund—no questions asked. You should only pay for real results, not failed attempts.</p>
                     <p>We stand by our work, and your satisfaction is our top priority.</p>
                 </div>
@@ -1049,8 +600,8 @@
         <footer role="contentinfo">
             <div class="footer-container">
                 <div class="footer-section">
-                    <h4>Bronx Appliance Repair Specialist</h4>
-                    <p>Expert appliance repair in Bronx, NY since 1993.</p>
+                    <h4>Gringer Appliance Repair</h4>
+                    <p>Expert appliance repair in NYC since 1918.</p>
                     <p>Trust us for reliable, same-day service.</p>
                 </div>
                 <div class="footer-section quick-links">
@@ -1059,7 +610,7 @@
                         <ul class="quick-links-list">
                             <li><a href="#home" class="footer-link">Home</a></li>
                             <li><a href="#services" class="footer-link">Services</a></li>
-                            <li><a href="#service-areas" class="footer-link">Serving All Bronx Neighborhoods</a></li>
+                            <li><a href="#service-areas" class="footer-link">Service Areas</a></li>
                         </ul>
                         <ul class="quick-links-list">
                             <li><a href="#brands" class="footer-link">Brands We Service</a></li>
@@ -1071,14 +622,14 @@
                     <h4>Appliance Services</h4>
                     <div class="appliance-services-container">
                         <ul class="appliance-services-list">
-                            <li><a href="#services" class="footer-link">Washing Machine Repair</a></li>
+                            <li><a href="#services" class="footer-link">Washer Repair</a></li>
                             <li><a href="#services" class="footer-link">Dryer Repair</a></li>
                             <li><a href="#services" class="footer-link">Oven Repair</a></li>
                             <li><a href="#services" class="footer-link">Dishwasher Repair</a></li>
                         </ul>
                         <ul class="appliance-services-list">
                             <li><a href="#services" class="footer-link">Refrigerator Repair</a></li>
-                            <li><a href="#services" class="footer-link">Wine Coolers</a></li>
+                            <li><a href="#services" class="footer-link">Wine Cooler Repair</a></li>
                             <li><a href="#services" class="footer-link">Microwave Repair</a></li>
                             <li><a href="#services" class="footer-link">Cooktop Repair</a></li>
                         </ul>
@@ -1086,38 +637,28 @@
                 </div>
                 <div class="footer-section">
                     <h4>Contact Info</h4>
-                    <p class="phone-link"><span class="icon">📞</span> <a href="tel:+17187171706">+1 (718) 717-1706</a></p>
-                    <p>Email: <a href="mailto:info@bronxappliancerepair.com">info@bronxappliancerepair.com</a></p>
-                    <p>Address: 1500 Astor Ave, Bronx, NY 10469</p>
+                    <p class="phone-link"><span class="icon">📞</span> <a href="tel:7187171706">+1 (718) 717-1706</a></p>
+                    <p>Email: <a href="mailto:info@gringerappliancerepair.com">info@gringerappliancerepair.com</a></p>
+                    <p>Address: 152 E 23rd St, NYC, 10010</p>
                     <p class="hours-info"><span class="icon">🕒</span> Hours: 7 days a week, 7am-6pm</p>
+                    <div class="social-links">
+                        <a aria-label="Facebook">Facebook</a>
+                        <a aria-label="Twitter">Twitter</a>
+                        <a aria-label="Instagram">Instagram</a>
+                    </div>
                 </div>
             </div>
             <div class="footer-bottom">
-                <p>&copy; 2025 Bronx Appliance Repair Specialist. All rights reserved.</p>
+                <p>© 2025 Gringer Appliance Repair Service. All rights reserved.</p>
             </div>
         </footer>
-
-        <a href="tel:+17187171706" class="phone-floater" aria-label="Book now to schedule your appliance repair">
-            <span class="icon">📞</span>
-            <span class="floater-text">Book Now</span>
-        </a>
-
-        <!-- Review Badge -->
-        <div class="review-badge" aria-label="Over 1,000 customer reviews">
-            <i class="fas fa-star"></i>
-            Over 1,000 Reviews
-        </div>
     </div>
 
     <script>
-        // For better SEO, consider using the History API to update URLs or creating separate pages for each section.
         document.getElementById('hamburger').addEventListener('click', function (e) {
             e.preventDefault();
             this.classList.toggle('active');
-            const navMenu = document.getElementById('nav-menu');
-            navMenu.classList.toggle('active');
-            const isExpanded = this.classList.contains('active');
-            this.setAttribute('aria-expanded', isExpanded);
+            document.getElementById('nav-menu').classList.toggle('active');
         });
 
         document.querySelectorAll('nav ul li a, .footer-link').forEach(anchor => {
@@ -1138,7 +679,6 @@
                     }
                     document.getElementById('nav-menu').classList.remove('active');
                     document.getElementById('hamburger').classList.remove('active');
-                    document.getElementById('hamburger').setAttribute('aria-expanded', 'false');
                 }
             });
         });
@@ -1171,14 +711,13 @@
             }
         }
 
-        function toggleDropdown(id) {
-            var dropdown = document.getElementById(id);
-            if (dropdown.style.display === "none") {
-                dropdown.style.display = "block";
-            } else {
-                dropdown.style.display = "none";
-            }
-        }
+        document.querySelectorAll('.borough-item').forEach(item => {
+            item.addEventListener('click', function (e) {
+                e.preventDefault();
+                const desc = this.querySelector('.borough-desc');
+                desc.classList.toggle('active');
+            });
+        });
 
         document.querySelectorAll('.brand-item').forEach(item => {
             item.addEventListener('click', function (e) {
@@ -1206,4 +745,4 @@
         }
     </script>
 </body>
-</html>
+</html> 
