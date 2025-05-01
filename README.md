@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -7,27 +8,27 @@
     <meta name="keywords" content="appliance repair NYC, Manhattan appliance repair, Brooklyn appliance repair, Queens appliance repair, Bronx appliance repair, washing machine repair, dryer repair, oven repair, dishwasher repair, refrigerator repair, Gringer Appliance Repair">
     <meta name="author" content="Gringer Appliance Repair Service">
     <meta name="robots" content="index, follow">
-    <link rel="canonical" href="https://gringerappliancerepair.com/">
-    <link rel="sitemap" href="https://gringerappliancerepair.com/sitemap.xml">
+    <link rel="canonical" href="https://appliancerepairservicesnyc.github.io/gringerappliancerepair/">
+    <link rel="sitemap" href="https://appliancerepairservicesnyc.github.io/gringerappliancerepair/sitemap.xml">
     <meta property="og:title" content="Gringer Appliance Repair Service - Expert NYC Repairs Since 1918">
     <meta property="og:description" content="Expert, same-day appliance repair in Manhattan, Brooklyn, Queens, the Bronx, and NYC areas since 1918. Trust our skilled technicians for all your appliance needs.">
-    <meta property="og:url" content="https://gringerappliancerepair.com/">
+    <meta property="og:url" content="https://appliancerepairservicesnyc.github.io/gringerappliancerepair/">
     <meta property="og:type" content="website">
-    <meta property="og:image" content="https://gringerappliancerepair.com/assets/img/social.jpg">
+    <meta property="og:image" content="https://appliancerepairservicesnyc.github.io/gringerappliancerepair/assets/img/social.jpg">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Gringer Appliance Repair Service - Expert NYC Repairs Since 1918">
     <meta name="twitter:description" content="Expert, same-day appliance repair in Manhattan, Brooklyn, Queens, the Bronx, and NYC areas since 1918. Trust our skilled technicians.">
-    <meta name="twitter:image" content="https://gringerappliancerepair.com/assets/img/social.jpg">
+    <meta name="twitter:image" content="https://appliancerepairservicesnyc.github.io/gringerappliancerepair/assets/img/social.jpg">
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",
       "@type": "LocalBusiness",
       "name": "Gringer Appliance Repair Service",
-      "url": "https://gringerappliancerepair.com/",
+      "url": "https://appliancerepairservicesnyc.github.io/gringerappliancerepair/",
       "description": "Gringer Appliance Repair Service is the premier, authorized provider of appliance repair in New York City, delivering expert solutions since 1918.",
       "telephone": "+17187171706",
       "email": "info@gringerappliancerepair.com",
-      "image": "https://gringerappliancerepair.com/assets/img/social.jpg",
+      "image": "https://appliancerepairservicesnyc.github.io/gringerappliancerepair/assets/img/social.jpg",
       "priceRange": "$$",
       "address": {
         "@type": "PostalAddress",
@@ -56,7 +57,7 @@
       ],
       "logo": {
         "@type": "ImageObject",
-        "url": "https://gringerappliancerepair.com/assets/img/logo.png",
+        "url": "https://appliancerepairservicesnyc.github.io/gringerappliancerepair/assets/img/logo.png",
         "width": 600,
         "height": 150
       },
@@ -77,15 +78,15 @@
       "@context": "https://schema.org",
       "@type": "BreadcrumbList",
       "itemListElement": [
-        {"@type": "ListItem", "position": 1, "name": "Home - NYC Appliance Repair", "item": "https://gringerappliancerepair.com/#home"},
-        {"@type": "ListItem", "position": 2, "name": "Appliance Repair Services", "item": "https://gringerappliancerepair.com/#services"},
-        {"@type": "ListItem", "position": 3, "name": "NYC Service Areas", "item": "https://gringerappliancerepair.com/#service-areas"},
-        {"@type": "ListItem", "position": 4, "name": "Brands We Service", "item": "https://gringerappliancerepair.com/#brands"},
-        {"@type": "ListItem", "position": 5, "name": "Additional Services", "item": "https://gringerappliancerepair.com/#additional-services"},
-        {"@type": "ListItem", "position": 6, "name": "Customer Reviews", "item": "https://gringerappliancerepair.com/#reviews"},
-        {"@type": "ListItem", "position": 7, "name": "About Gringer", "item": "https://gringerappliancerepair.com/#about"},
-        {"@type": "ListItem", "position": 8, "name": "Contact Us", "item": "https://gringerappliancerepair.com/#contact"},
-        {"@type": "ListItem", "position": 9, "name": "Guarantee Policy", "item": "https://gringerappliancerepair.com/#guarantee-policy"}
+        {"@type": "ListItem", "position": 1, "name": "Home - NYC Appliance Repair", "item": "https://appliancerepairservicesnyc.github.io/gringerappliancerepair/#home"},
+        {"@type": "ListItem", "position": 2, "name": "Appliance Repair Services", "item": "https://appliancerepairservicesnyc.github.io/gringerappliancerepair/#services"},
+        {"@type": "ListItem", "position": 3, "name": "NYC Service Areas", "item": "https://appliancerepairservicesnyc.github.io/gringerappliancerepair/#service-areas"},
+        {"@type": "ListItem", "position": 4, "name": "Brands We Service", "item": "https://appliancerepairservicesnyc.github.io/gringerappliancerepair/#brands"},
+        {"@type": "ListItem", "position": 5, "name": "Additional Services", "item": "https://appliancerepairservicesnyc.github.io/gringerappliancerepair/#additional-services"},
+        {"@type": "ListItem", "position": 6, "name": "Customer Reviews", "item": "https://appliancerepairservicesnyc.github.io/gringerappliancerepair/#reviews"},
+        {"@type": "ListItem", "position": 7, "name": "About Gringer", "item": "https://appliancerepairservicesnyc.github.io/gringerappliancerepair/#about"},
+        {"@type": "ListItem", "position": 8, "name": "Contact Us", "item": "https://appliancerepairservicesnyc.github.io/gringerappliancerepair/#contact"},
+        {"@type": "ListItem", "position": 9, "name": "Guarantee Policy", "item": "https://appliancerepairservicesnyc.github.io/gringerappliancerepair/#guarantee-policy"}
       ]
     }
     </script>
@@ -641,9 +642,9 @@
                     <p>Address: 152 E 23rd St, NYC, 10010</p>
                     <p class="hours-info"><span class="icon">🕒</span> Hours: 7 days a week, 7am-6pm</p>
                     <div class="social-links">
-                        <a aria-label="Facebook">Facebook</a>
-                        <a aria-label="Twitter">Twitter</a>
-                        <a aria-label="Instagram">Instagram</a>
+                        <a href="https://www.facebook.com/gringerappliancerepair" aria-label="Facebook">Facebook</a>
+                        <a href="https://www.twitter.com/gringerrepair" aria-label="Twitter">Twitter</a>
+                        <a href="https://www.instagram.com/gringerappliancerepair" aria-label="Instagram">Instagram</a>
                     </div>
                 </div>
             </div>
@@ -744,4 +745,4 @@
         }
     </script>
 </body>
-</html> 
+</html>
