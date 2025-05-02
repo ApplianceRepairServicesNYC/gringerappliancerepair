@@ -1,21 +1,22 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Gringer Appliance Repair Service - Expert NYC Repairs Since 1918</title>
-    <meta name="description" content="Gringer Appliance Repair Service offers expert, same-day appliance repair in Manhattan, Brooklyn, Queens, the Bronx, and NYC areas since 1918. Specializing in top brands like Samsung, Bosch, and more.">
+    <title>Gringer Appliance Repair Service - Expert NYC Repairs Since 1947</title>
+    <meta name="description" content="Gringer Appliance Repair Service offers expert, same-day appliance repair in Manhattan, Brooklyn, Queens, the Bronx, and NYC areas since 1947. Specializing in top brands like Samsung, Bosch, and more.">
     <meta name="keywords" content="appliance repair NYC, Manhattan appliance repair, Brooklyn appliance repair, Queens appliance repair, Bronx appliance repair, washing machine repair, dryer repair, oven repair, dishwasher repair, refrigerator repair, Gringer Appliance Repair">
     <meta name="author" content="Gringer Appliance Repair Service">
     <meta name="robots" content="index, follow">
     <link rel="canonical" href="https://appliancerepairservicesnyc.github.io/gringerappliancerepair/">
     <link rel="sitemap" href="https://appliancerepairservicesnyc.github.io/gringerappliancerepair/sitemap.xml">
     <meta property="og:title" content="Gringer Appliance Repair Service - Expert NYC Repairs Since 1918">
-    <meta property="og:description" content="Expert, same-day appliance repair in Manhattan, Brooklyn, Queens, the Bronx, and NYC areas since 1918. Trust our skilled technicians for all your appliance needs.">
+    <meta property="og:description" content="Expert, same-day appliance repair in Manhattan, Brooklyn, Queens, the Bronx, and NYC areas since 1947. Trust our skilled technicians for all your appliance needs.">
     <meta property="og:url" content="https://appliancerepairservicesnyc.github.io/gringerappliancerepair/">
     <meta property="og:type" content="website">
     <meta property="og:image" content="https://appliancerepairservicesnyc.github.io/gringerappliancerepair/assets/img/social.jpg">
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Gringer Appliance Repair Service - Expert NYC Repairs Since 1918">
+    <meta name="twitter:title" content="Gringer Appliance Repair Service - Expert NYC Repairs Since 1947">
     <meta name="twitter:description" content="Expert, same-day appliance repair in Manhattan, Brooklyn, Queens, the Bronx, and NYC areas since 1918. Trust our skilled technicians.">
     <meta name="twitter:image" content="https://appliancerepairservicesnyc.github.io/gringerappliancerepair/assets/img/social.jpg">
     <script type="application/ld+json">
@@ -220,6 +221,67 @@
             #guarantee-policy .section-content, #additional-services .section-content {padding: 1rem;}
             #guarantee-policy .section-content::before, #additional-services .section-content::before {font-size: 1.2rem; padding: 0.3rem 0.8rem;}
             #guarantee-policy .section-content p, #additional-services .section-content li {font-size: 0.9rem;}
+        }
+
+        /* Phone Floater */
+        .phone-floater {
+            position: fixed;
+            bottom: 20px;
+            right: 20px;
+            z-index: 1000;
+        }
+
+        .phone-floater .cta-button {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 0.5rem;
+            padding: 1rem 1.5rem;
+            background: linear-gradient(45deg, #1E3A8A, #3B82F6);
+            color: #FFFFFF;
+            font-family: 'Montserrat', sans-serif;
+            font-size: 1rem;
+            font-weight: 600;
+            text-decoration: none;
+            border-radius: 8px;
+            transition: transform 0.3s ease, background 0.3s ease, box-shadow 0.3s ease;
+            border: 1px solid #FFD700;
+            box-shadow: 0 0 5px rgba(255, 215, 0, 0.3), 0 4px 10px rgba(0, 0, 0, 0.2);
+        }
+
+        .phone-floater .cta-button:hover {
+            background: linear-gradient(45deg, #1E40AF, #06B6D4);
+            transform: scale(1.05);
+            box-shadow: 0 0 10px rgba(255, 215, 0, 0.5), 0 0 15px rgba(0, 183, 255, 0.5);
+            animation: pulse 1.5s infinite;
+        }
+
+        .phone-floater .cta-button .icon {
+            font-size: 1.2rem;
+            vertical-align: middle;
+        }
+
+        /* Reviews Text */
+        .reviews-text {
+            position: fixed;
+            bottom: 20px;
+            left: 20px;
+            z-index: 1000;
+            background: linear-gradient(45deg, #1E3A8A, #3B82F6);
+            color: #FFFFFF;
+            padding: 1rem;
+            border-radius: 8px;
+            box-shadow: 0 0 5px rgba(0, 0, 0, 0.3), 0 4px 10px rgba(0, 0, 0, 0.2);
+            font-family: 'Montserrat', sans-serif;
+            font-size: 1rem;
+            font-weight: 600;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+
+        .reviews-text .icon {
+            font-size: 1.2rem;
         }
     </style>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&family=Montserrat:wght@600;700&display=swap" rel="stylesheet">
@@ -600,7 +662,7 @@
             <div class="footer-container">
                 <div class="footer-section">
                     <h4>Gringer Appliance Repair</h4>
-                    <p>Expert appliance repair in NYC since 1918.</p>
+                    <p>Expert appliance repair in NYC since 1947.</p>
                     <p>Trust us for reliable, same-day service.</p>
                 </div>
                 <div class="footer-section quick-links">
@@ -651,6 +713,18 @@
                 <p>© 2025 Gringer Appliance Repair Service. All rights reserved.</p>
             </div>
         </footer>
+    </div>
+
+    <!-- Phone Floater -->
+    <div class="phone-floater">
+        <a href="tel:7187171706" class="cta-button" aria-label="Call to schedule your appliance repair">
+            <span class="icon">📞</span> Call Now
+        </a>
+    </div>
+
+    <!-- Reviews Text -->
+    <div class="reviews-text">
+        <span class="icon">⭐</span> Over 1,000 Reviews
     </div>
 
     <script>
